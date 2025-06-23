@@ -8,7 +8,7 @@ I'm a data scientist focused on data-driven decision support, multiobjective opt
 
 ---
 
-### 🗂 Selected Projects
+### Selected Projects
 
 - [Forest Biodiversity Digital Twin – BioDT Use Case](https://github.com/BioDT/uc-forest-bird)  
   Predictive modeling workflows for forest planning using LANDIS-II, HMSC, and spatial ecological data. Built for EU BioDT and deployed on LUMI supercomputer.
